@@ -206,7 +206,7 @@ Reactive forms have methods to change a control's value programmatically, which 
 
 The following example adds a method to the component class to update the value of the control to *Nancy* using the `setValue()` method.
 
-下列的例子往组件类中添加了一个方法，它使用 `setValue()` 方法来修改 *Nancy* 控件的值。
+下列的例子往组件类中添加了一个方法，它使用 `setValue()` 方法来将控件的值修改为 *Nancy* 。
 
 <code-example path="reactive-forms/src/app/name-editor/name-editor.component.ts" region="update-value" header="src/app/name-editor/name-editor.component.ts (update value)">
 
